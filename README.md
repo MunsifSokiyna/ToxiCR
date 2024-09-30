@@ -1,4 +1,6 @@
 # ToxiCR
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMunsifSokiyna%2FToxiCR.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMunsifSokiyna%2FToxiCR?ref=badge_shield)
+
 
 A supervised learning based tool to identify toxic code review comments
 
@@ -113,3 +115,7 @@ series = {ASE '22}
 }
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMunsifSokiyna%2FToxiCR.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMunsifSokiyna%2FToxiCR?ref=badge_large)
