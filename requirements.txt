@@ -12,3 +12,5 @@ spacy>=2.3
 openpyxl>=3.0.9
 pydot
 graphviz
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+sentencepiece>=0.2.1 # not directly required, pinned by Snyk to avoid a vulnerability
