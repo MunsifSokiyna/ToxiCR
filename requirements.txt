@@ -12,3 +12,4 @@ spacy>=2.3
 openpyxl>=3.0.9
 pydot
 graphviz
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
